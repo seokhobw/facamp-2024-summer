@@ -16,6 +16,11 @@
 
 - 캠프 장소 : 경주 라한호텔 
 - 캠프 기간 : 07.15(월) - 07.16 (목) / 1박 2일
+- 캠프 일정
+    - [전체 캠프 일정 보기](./schedule/README.md)
+    - Day 0 : [사전교육](./schedule/day-0.png)
+    - Day 1 : [캠프 첫날](./schedule/day-1.png)
+    - Day 2 : [캠프 마지막날](./schedule/day-2.png)
 - 모집 기간 : 06.03(월) 10am - 06.21 11:59pm (금)
 - 모집 인원 : 28명 (신청자가 많을 경우 조기 마감할 수 있음)
 - 주관 기관 : 빅데이터 혁신융합대학 + 한동대학교 AI융합교육원 + Winning 12
@@ -24,10 +29,3 @@
 - 참가 비용 : 없음 (캠프 끝나고 전액 환불 받는 3만원 보증금)
 - 신청서: https://tinyurl.com/facamp-summer24
 - 캠프 문의 : 카카오톡 오픈 채팅방 https://tinyurl.com/facamp-chat
-
-## ◉ 일정 ◉
-
-- [전체일정](./schedule/schedule.pdf)
-- Day 0: [사전교육](./schedule/day-0.png)
-- Day 1: [캠프 첫날](./schedule/day-1.png)
-- Day 2: [캠프 마지막날](./schedule/day-2.png)
