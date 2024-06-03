@@ -33,7 +33,7 @@
 
 ◉ 일정 ◉
 
-- 전체일정: [schedule.pdf](./schedule/schedule.pdf)
+- [전체일정](./schedule/schedule.pdf)
 - Day 0: [사전교육](./schedule/day-0.png)
 - Day 1: [캠프 첫날](./schedule/day-1.png)
 - Day 2: [캠프 마지막날](./schedule/day-2.png)
