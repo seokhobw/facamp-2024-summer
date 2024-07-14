@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 live/**/*.parquet
 live/**/*.csv
+live/session-04/anim1a/*
